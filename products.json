@@ -1,0 +1,35 @@
+[
+  {
+    "id": "239c2e87-fae3-4c56-acf4-a361d36797e0",
+    "title": "Prueba34",
+    "description": "Prueba34",
+    "price": 100,
+    "stock": 10,
+    "category": "Prueba34",
+    "thumbnails": [
+      "7876.jpg"
+    ]
+  },
+  {
+    "id": "235815d8-8a14-4455-a1ba-ba32a2a88869",
+    "title": "Prueba1",
+    "description": "Prueba1",
+    "price": 100,
+    "stock": 10,
+    "category": "Prueba1",
+    "thumbnails": [
+      "1.jpg"
+    ]
+  },
+  {
+    "id": "d04a5c1d-2888-4df3-9fa7-c83838aab41e",
+    "title": "Prueba1",
+    "description": "Prueba1",
+    "price": 100,
+    "stock": 10,
+    "category": "Prueba1",
+    "thumbnails": [
+      "23432.jpg"
+    ]
+  }
+]
